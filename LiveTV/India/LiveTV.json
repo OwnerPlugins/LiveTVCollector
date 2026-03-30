@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-30 08:22:34",
+  "date": "2026-03-30 14:47:51",
   "channels": {
     "Promo": [
       {
@@ -33,6 +33,13 @@
         "group": "PSL 2026",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://psl.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8"
+      },
+      {
+        "name": "PSL 2026",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrZBygzDovVY_wCvtTy8J8SQogo6-QPwfmGThA4vBFcWXFqXLpCNpQuaG7&s=10",
+        "group": "PSL 2026",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvdHNwb3J0cw==&e=.m3u8"
       },
       {
         "name": "PSL 2026",
@@ -88,6 +95,13 @@
         "url": "https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8"
       },
       {
+        "name": "Global TV",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Global%20Television%20Bangladesh.png",
+        "group": "Bangla",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://sm-monirul.top/AyNa/play.php?id=0ac6af3d-acce-4d9d-9ce5-32d4b53f9326&e=.m3u8"
+      },
+      {
         "name": "Green TV",
         "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png",
         "group": "Bangla",
@@ -126,6 +140,13 @@
       }
     ],
     "Relagion Channel": [
+      {
+        "name": "Peace TV Bangla",
+        "logo": "https://i.ibb.co/Gfw89mC/20240804-033102.png",
+        "group": "Relagion Channel",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8"
+      },
       {
         "name": "Peace TV English",
         "logo": "https://i.ibb.co/598TYnC/20240827-092020.png",
@@ -398,13 +419,6 @@
         "group": "Hindi Movies",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://103.161.153.165:8000/play/a03s/index.m3u8"
-      },
-      {
-        "name": "Star Gold Select HD",
-        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Select%20HD.jpg",
-        "group": "Hindi Movies",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://103.229.254.25:7001/play/a032/index.m3u8"
       },
       {
         "name": "And Pictures HD",
@@ -785,13 +799,6 @@
       }
     ],
     "KIDS": [
-      {
-        "name": "Tom & Jarry",
-        "logo": "h",
-        "group": "KIDS",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8"
-      },
       {
         "name": "Zoo Moo",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
@@ -1620,6 +1627,13 @@
         "url": "http://116.90.120.151:8000/play/a0he/index.m3u8"
       },
       {
+        "name": "Star Gold Select HD (1080p)",
+        "logo": "https://i.imgur.com/U7eiuqv.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://103.229.254.25:7001/play/a032/index.m3u8"
+      },
+      {
         "name": "Star Gold Thrills (576p)",
         "logo": "https://i.imgur.com/azqtpYh.png",
         "group": "Movies",
@@ -1842,6 +1856,13 @@
       }
     ],
     "ISLAMIC CHANNELS": [
+      {
+        "name": "Peace tv Bangla",
+        "logo": "https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png",
+        "group": "ISLAMIC CHANNELS",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ"
+      },
       {
         "name": "Noor Tv",
         "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
@@ -2654,13 +2675,6 @@
         "group": "NEWS INTERNASIONAL",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8"
-      },
-      {
-        "name": "BBC News",
-        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
-        "group": "NEWS INTERNASIONAL",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1"
       },
       {
         "name": "DW English",

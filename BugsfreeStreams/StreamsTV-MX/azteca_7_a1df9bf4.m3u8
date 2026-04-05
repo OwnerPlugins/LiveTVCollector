@@ -3,4 +3,4 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000,RESOLUTION=Original
 https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1117600,RESOLUTION=854x480
-https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/c58aaefd-ca88-4592-a61a-7e87fe5e40ac:TUL/variant/641320b1fa30661e382a1f99421c5efd/bandwidth/1117600.m3u8
+https://dai.google.com/linear/hls/pa/event/YHoOj51dSKCvBQOBG2OvLQ/stream/302293bd-600a-47c5-a8e1-c854b83a36ac:MRN2/variant/784f58f2d5416298745aca27ee7ba885/bandwidth/1117600.m3u8

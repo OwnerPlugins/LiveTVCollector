@@ -8,6 +8,12 @@
   {
     "name": "IPL 2026",
     "type": "IPL 2026",
+    "url": "http://sm-monirul.top/AyNa/play.php?id=f064e069-8861-43d5-ac79-828b029a50a1&e=.m3u8",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10"
+  },
+  {
+    "name": "IPL 2026",
+    "type": "IPL 2026",
     "url": "http://stvlive.net:8080/starsports2/tracks-v1a1/mono.m3u8",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10"
   },
@@ -40,6 +46,12 @@
     "type": "Bangla",
     "url": "https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"
+  },
+  {
+    "name": "Global TV",
+    "type": "Bangla",
+    "url": "http://sm-monirul.top/AyNa/play.php?id=0ac6af3d-acce-4d9d-9ce5-32d4b53f9326&e=.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Global%20Television%20Bangladesh.png"
   },
   {
     "name": "Green TV",
@@ -166,6 +178,12 @@
     "type": "Kolkata Bangla Movies",
     "url": "http://103.229.254.25:7001/play/a078/index.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"
+  },
+  {
+    "name": "Dhoom Music",
+    "type": "Kolkata Bangla Music",
+    "url": "http://103.175.73.12:8080/live/378/378_0.m3u8",
+    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
     "name": "ABP Ananda",
@@ -795,12 +813,6 @@
     "name": "Star Sports SL 1 🇮🇳",
     "type": "Cricket 🏏",
     "url": "https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8",
-    "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
-  },
-  {
-    "name": "Star Sports SL 2 🇮🇳",
-    "type": "Cricket 🏏",
-    "url": "https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8",
     "img": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png"
   },
   {
@@ -1478,6 +1490,12 @@
   {
     "name": "AL EKHBARIA",
     "type": "ISLAMIC CHANNELS",
+    "url": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8",
+    "img": "https://i.ibb.co/TkVK043/ekbariya.png"
+  },
+  {
+    "name": "AL EKHBARIA",
+    "type": "ISLAMIC CHANNELS",
     "url": "https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8",
     "img": "https://i.ibb.co/TkVK043/ekbariya.png"
   },
@@ -1492,6 +1510,12 @@
     "type": "ISLAMIC CHANNELS",
     "url": "https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8",
     "img": "https://i.ibb.co/MctgDQ8/sunnah.png"
+  },
+  {
+    "name": "QURAN KAREEM TV",
+    "type": "ISLAMIC CHANNELS",
+    "url": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8",
+    "img": "https://i.ibb.co/f0cKj4S/kareem.jpg"
   },
   {
     "name": "AL ISTIQAMA",

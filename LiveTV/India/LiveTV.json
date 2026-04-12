@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-12 08:47:10",
+  "date": "2026-04-12 14:24:54",
   "channels": {
     "Promo": [
       {
@@ -8,6 +8,15 @@
         "group": "Promo",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://raw.githubusercontent.com/falconcasthoster/promo/refs/heads/main/nolink/master.m3u8"
+      }
+    ],
+    "IPL 2026": [
+      {
+        "name": "IPL 2026",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10",
+        "group": "IPL 2026",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://sm-monirul.top/AyNa/play.php?id=f064e069-8861-43d5-ac79-828b029a50a1&e=.m3u8"
       }
     ],
     "PSL 2026": [
@@ -51,6 +60,13 @@
         "url": "https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8"
       },
       {
+        "name": "Global TV",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Global%20Television%20Bangladesh.png",
+        "group": "Bangla",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://sm-monirul.top/AyNa/play.php?id=0ac6af3d-acce-4d9d-9ce5-32d4b53f9326&e=.m3u8"
+      },
+      {
         "name": "Green TV",
         "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png",
         "group": "Bangla",
@@ -82,20 +98,6 @@
       }
     ],
     "Relagion Channel": [
-      {
-        "name": "Peace TV Bangla",
-        "logo": "https://i.ibb.co/Gfw89mC/20240804-033102.png",
-        "group": "Relagion Channel",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8"
-      },
-      {
-        "name": "Peace TV English",
-        "logo": "https://i.ibb.co/598TYnC/20240827-092020.png",
-        "group": "Relagion Channel",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8"
-      },
       {
         "name": "Madani TV",
         "logo": "https://i.ibb.co/7jrjkW1/20240813-112630.png",
@@ -836,6 +838,13 @@
         "group": "Cricket 🏏",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8"
+      },
+      {
+        "name": "Azan TV 🎯 📡",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "Cricket 🏏",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8"
       },
       {
         "name": "স্পাইস FM Radio 📻 মোবাইল লক করা অবস্থায়ও চলতে থাকবে",
@@ -1651,6 +1660,13 @@
         "group": "ISLAMIC CHANNELS",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8"
+      },
+      {
+        "name": "Peace Tv English",
+        "logo": "https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png",
+        "group": "ISLAMIC CHANNELS",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8"
       },
       {
         "name": "BAHRAIN QURAN",

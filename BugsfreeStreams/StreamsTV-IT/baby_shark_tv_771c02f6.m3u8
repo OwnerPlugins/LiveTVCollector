@@ -3,8 +3,8 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000,RESOLUTION=Original
 https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=921600,RESOLUTION=Variant_1
-https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/3e15dd55-7c35-4f68-a6e9-20746fca1aaf/0.m3u8
+https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/391c72b8-4726-4783-91fc-5a9682468ef7/0.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2048000,RESOLUTION=Variant_2
-https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/3e15dd55-7c35-4f68-a6e9-20746fca1aaf/1.m3u8
+https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/391c72b8-4726-4783-91fc-5a9682468ef7/1.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3072000,RESOLUTION=Variant_3
-https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/3e15dd55-7c35-4f68-a6e9-20746fca1aaf/2.m3u8
+https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/391c72b8-4726-4783-91fc-5a9682468ef7/2.m3u8

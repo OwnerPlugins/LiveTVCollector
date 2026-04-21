@@ -3,8 +3,8 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000,RESOLUTION=Original
 https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1020800,RESOLUTION=640x360
-https://rakutenaa-lightning-now70s-rakuten-t8535.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-lightning-now70s-rakuten/9a10067b-3d32-11f1-8c9f-fe831b103d84/138/640x360_1020800/index.m3u8
+https://rakutenaa-lightning-now70s-rakuten-t8535.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-lightning-now70s-rakuten/6b83369c-3d67-11f1-b764-82e1bfd1cd40/144/640x360_1020800/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1249600,RESOLUTION=848x480
-https://rakutenaa-lightning-now70s-rakuten-t8535.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-lightning-now70s-rakuten/9a10067b-3d32-11f1-8c9f-fe831b103d84/138/848x480_1249600/index.m3u8
+https://rakutenaa-lightning-now70s-rakuten-t8535.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-lightning-now70s-rakuten/6b83369c-3d67-11f1-b764-82e1bfd1cd40/144/848x480_1249600/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3801600,RESOLUTION=1280x720
-https://rakutenaa-lightning-now70s-rakuten-t8535.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-lightning-now70s-rakuten/9a10067b-3d32-11f1-8c9f-fe831b103d84/138/1280x720_3801600/index.m3u8
+https://rakutenaa-lightning-now70s-rakuten-t8535.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-lightning-now70s-rakuten/6b83369c-3d67-11f1-b764-82e1bfd1cd40/144/1280x720_3801600/index.m3u8

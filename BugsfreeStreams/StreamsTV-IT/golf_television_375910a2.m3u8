@@ -3,12 +3,12 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000,RESOLUTION=Original
 https://amg14891-amg14891c1-amgplt0165.playout.now3.amagi.tv/playlist/amg14891-amg14891c1-amgplt0165/playlist.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5060000,RESOLUTION=1920x1080
-https://amg14891-amg14891c1-amgplt0165.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg14891-amg14891c1-amgplt0165/52fbf9b6-5831-11f1-a91b-0e9a87c8d62a/105/1920x1080_5060000/index.m3u8
+https://amg14891-amg14891c1-amgplt0165.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg14891-amg14891c1-amgplt0165/b84ed2cb-5862-11f1-873c-9e6b9e0e7b6f/147/1920x1080_5060000/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000800,RESOLUTION=1280x720
-https://amg14891-amg14891c1-amgplt0165.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg14891-amg14891c1-amgplt0165/52fbf9b6-5831-11f1-a91b-0e9a87c8d62a/105/1280x720_3000800/index.m3u8
+https://amg14891-amg14891c1-amgplt0165.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg14891-amg14891c1-amgplt0165/b84ed2cb-5862-11f1-873c-9e6b9e0e7b6f/147/1280x720_3000800/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1513600,RESOLUTION=848x480
-https://amg14891-amg14891c1-amgplt0165.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg14891-amg14891c1-amgplt0165/52fbf9b6-5831-11f1-a91b-0e9a87c8d62a/105/848x480_1513600/index.m3u8
+https://amg14891-amg14891c1-amgplt0165.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg14891-amg14891c1-amgplt0165/b84ed2cb-5862-11f1-873c-9e6b9e0e7b6f/147/848x480_1513600/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=871200,RESOLUTION=640x360
-https://amg14891-amg14891c1-amgplt0165.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg14891-amg14891c1-amgplt0165/52fbf9b6-5831-11f1-a91b-0e9a87c8d62a/105/640x360_871200/index.m3u8
+https://amg14891-amg14891c1-amgplt0165.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg14891-amg14891c1-amgplt0165/b84ed2cb-5862-11f1-873c-9e6b9e0e7b6f/147/640x360_871200/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470800,RESOLUTION=426x240
-https://amg14891-amg14891c1-amgplt0165.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg14891-amg14891c1-amgplt0165/52fbf9b6-5831-11f1-a91b-0e9a87c8d62a/105/426x240_470800/index.m3u8
+https://amg14891-amg14891c1-amgplt0165.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg14891-amg14891c1-amgplt0165/b84ed2cb-5862-11f1-873c-9e6b9e0e7b6f/147/426x240_470800/index.m3u8
